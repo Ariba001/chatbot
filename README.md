@@ -22,4 +22,4 @@ Muzan is a chatbot created using Python and integrates APIs to enhance its conve
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/Ariba001/chatbot>
